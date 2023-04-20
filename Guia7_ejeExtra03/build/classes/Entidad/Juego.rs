@@ -1,0 +1,2 @@
+entidad.Juego
+Entidad.Operacion
